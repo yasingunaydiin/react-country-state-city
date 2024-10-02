@@ -1,5 +1,4 @@
 [
-
   {
     "id": 225,
     "states": [
@@ -410,369 +409,369 @@
       }
     ]
   },
-    {
-      "id": "1",
-      "states": [
-        {
-          "id": 1,
-          "name": "Tirana",
-          "state_code": "AL"
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "states": [
-        {
-          "id": 2,
-          "name": "Andorra la Vella",
-          "state_code": "AD"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "states": [
-        {
-          "id": 3,
-          "name": "Vienna",
-          "state_code": "AT"
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "states": [
-        {
-          "id": 4,
-          "name": "Brussels",
-          "state_code": "BE"
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "states": [
-        {
-          "id": 5,
-          "name": "Sofia",
-          "state_code": "BG"
-        }
-      ]
-    },
-    {
-      "id": "10",
-      "states": [
-        {
-          "id": 6,
-          "name": "Zagreb",
-          "state_code": "HR"
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "states": [
-        {
-          "id": 7,
-          "name": "Cyprus",
-          "state_code": "CY"
-        },
-        {
-          "id": 37,
-          "name": "Nicosia",
-          "state_code": "CY"
-        }
-      ]
-    },
-    {
-      "id": "12",
-      "states": [
-        {
-          "id": 8,
-          "name": "Prague",
-          "state_code": "CZ"
-        }
-      ]
-    },
-    {
-      "id": "13",
-      "states": [
-        {
-          "id": 9,
-          "name": "Copenhagen",
-          "state_code": "DK"
-        }
-      ]
-    },
-    {
-      "id": "14",
-      "states": [
-        {
-          "id": 10,
-          "name": "Tallinn",
-          "state_code": "EE"
-        }
-      ]
-    },
-    {
-      "id": "15",
-      "states": [
-        {
-          "id": 11,
-          "name": "Helsinki",
-          "state_code": "FI"
-        }
-      ]
-    },
-    {
-      "id": "16",
-      "states": [
-        {
-          "id": 12,
-          "name": "Paris",
-          "state_code": "FR"
-        }
-      ]
-    },
-    {
-      "id": "18",
-      "states": [
-        {
-          "id": 13,
-          "name": "Berlin",
-          "state_code": "DE"
-        }
-      ]
-    },
-    {
-      "id": "19",
-      "states": [
-        {
-          "id": 14,
-          "name": "Athens",
-          "state_code": "GR"
-        }
-      ]
-    },
-    {
-      "id": "20",
-      "states": [
-        {
-          "id": 15,
-          "name": "Budapest",
-          "state_code": "HU"
-        }
-      ]
-    },
-    {
-      "id": "21",
-      "states": [
-        {
-          "id": 16,
-          "name": "Reykjavik",
-          "state_code": "IS"
-        }
-      ]
-    },
-    {
-      "id": "22",
-      "states": [
-        {
-          "id": 17,
-          "name": "Dublin",
-          "state_code": "IE"
-        }
-      ]
-    },
-    {
-      "id": "23",
-      "states": [
-        {
-          "id": 18,
-          "name": "Rome",
-          "state_code": "IT"
-        }
-      ]
-    },
-    {
-      "id": "50",
-      "states": [
-        {
-          "id": 19,
-          "name": "Pristina",
-          "state_code": "XK"
-        }
-      ]
-    },
-    {
-      "id": "25",
-      "states": [
-        {
-          "id": 20,
-          "name": "Riga",
-          "state_code": "LV"
-        }
-      ]
-    },
-    {
-      "id": "26",
-      "states": [
-        {
-          "id": 21,
-          "name": "Vilnius",
-          "state_code": "LT"
-        }
-      ]
-    },
-    {
-      "id": "27",
-      "states": [
-        {
-          "id": 22,
-          "name": "Luxembourg City",
-          "state_code": "LU"
-        }
-      ]
-    },
-    {
-      "id": "28",
-      "states": [
-        {
-          "id": 23,
-          "name": "Valletta",
-          "state_code": "MT"
-        }
-      ]
-    },
-    {
-      "id": "32",
-      "states": [
-        {
-          "id": 24,
-          "name": "Amsterdam",
-          "state_code": "NL"
-        }
-      ]
-    },
-    {
-      "id": "34",
-      "states": [
-        {
-          "id": 25,
-          "name": "Oslo",
-          "state_code": "NO"
-        }
-      ]
-    },
-    {
-      "id": "36",
-      "states": [
-        {
-          "id": 26,
-          "name": "Lisbon",
-          "state_code": "PT"
-        }
-      ]
-    },
-    {
-      "id": "37",
-      "states": [
-        {
-          "id": 27,
-          "name": "Bucharest",
-          "state_code": "RO"
-        }
-      ]
-    },
-    {
-      "id": "38",
-      "states": [
-        {
-          "id": 28,
-          "name": "Moscow",
-          "state_code": "RU"
-        }
-      ]
-    },
-    {
-      "id": "39",
-      "states": [
-        {
-          "id": 29,
-          "name": "San Marino",
-          "state_code": "SM"
-        }
-      ]
-    },
-    {
-      "id": "40",
-      "states": [
-        {
-          "id": 30,
-          "name": "Belgrade",
-          "state_code": "RS"
-        }
-      ]
-    },
-    {
-      "id": "41",
-      "states": [
-        {
-          "id": 31,
-          "name": "Bratislava",
-          "state_code": "SK"
-        }
-      ]
-    },
-    {
-      "id": "42",
-      "states": [
-        {
-          "id": 32,
-          "name": "Ljubljana",
-          "state_code": "SI"
-        }
-      ]
-    },
-    {
-      "id": "44",
-      "states": [
-        {
-          "id": 33,
-          "name": "Stockholm",
-          "state_code": "SE"
-        }
-      ]
-    },
-    {
-      "id": "45",
-      "states": [
-        {
-          "id": 34,
-          "name": "Bern",
-          "state_code": "CH"
-        }
-      ]
-    },
-    {
-      "id": "46",
-      "states": [
-        {
-          "id": 35,
-          "name": "Kyiv",
-          "state_code": "UA"
-        }
-      ]
-    },
-    {
-      "id": "47",
-      "states": [
-        {
-          "id": 36,
-          "name": "London",
-          "state_code": "GB"
-        }
-      ]
-    }
-  ]
+  {
+    "id": "1",
+    "states": [
+      {
+        "id": 1,
+        "name": "Tirana",
+        "state_code": "AL"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "states": [
+      {
+        "id": 2,
+        "name": "Andorra la Vella",
+        "state_code": "AD"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "states": [
+      {
+        "id": 3,
+        "name": "Vienna",
+        "state_code": "AT"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "states": [
+      {
+        "id": 4,
+        "name": "Brussels",
+        "state_code": "BE"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "states": [
+      {
+        "id": 5,
+        "name": "Sofia",
+        "state_code": "BG"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "states": [
+      {
+        "id": 6,
+        "name": "Zagreb",
+        "state_code": "HR"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "states": [
+      {
+        "id": 7,
+        "name": "Cyprus",
+        "state_code": "CY"
+      },
+      {
+        "id": 37,
+        "name": "Nicosia",
+        "state_code": "CY"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "states": [
+      {
+        "id": 8,
+        "name": "Prague",
+        "state_code": "CZ"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "states": [
+      {
+        "id": 9,
+        "name": "Copenhagen",
+        "state_code": "DK"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "states": [
+      {
+        "id": 10,
+        "name": "Tallinn",
+        "state_code": "EE"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "states": [
+      {
+        "id": 11,
+        "name": "Helsinki",
+        "state_code": "FI"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "states": [
+      {
+        "id": 12,
+        "name": "Paris",
+        "state_code": "FR"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "states": [
+      {
+        "id": 13,
+        "name": "Berlin",
+        "state_code": "DE"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "states": [
+      {
+        "id": 14,
+        "name": "Athens",
+        "state_code": "GR"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "states": [
+      {
+        "id": 15,
+        "name": "Budapest",
+        "state_code": "HU"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "states": [
+      {
+        "id": 16,
+        "name": "Reykjavik",
+        "state_code": "IS"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "states": [
+      {
+        "id": 17,
+        "name": "Dublin",
+        "state_code": "IE"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "states": [
+      {
+        "id": 18,
+        "name": "Rome",
+        "state_code": "IT"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "states": [
+      {
+        "id": 19,
+        "name": "Pristina",
+        "state_code": "XK"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "states": [
+      {
+        "id": 20,
+        "name": "Riga",
+        "state_code": "LV"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "states": [
+      {
+        "id": 21,
+        "name": "Vilnius",
+        "state_code": "LT"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "states": [
+      {
+        "id": 22,
+        "name": "Luxembourg City",
+        "state_code": "LU"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "states": [
+      {
+        "id": 23,
+        "name": "Valletta",
+        "state_code": "MT"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "states": [
+      {
+        "id": 24,
+        "name": "Amsterdam",
+        "state_code": "NL"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "states": [
+      {
+        "id": 25,
+        "name": "Oslo",
+        "state_code": "NO"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "states": [
+      {
+        "id": 26,
+        "name": "Lisbon",
+        "state_code": "PT"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "states": [
+      {
+        "id": 27,
+        "name": "Bucharest",
+        "state_code": "RO"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "states": [
+      {
+        "id": 28,
+        "name": "Moscow",
+        "state_code": "RU"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "states": [
+      {
+        "id": 29,
+        "name": "San Marino",
+        "state_code": "SM"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "states": [
+      {
+        "id": 30,
+        "name": "Belgrade",
+        "state_code": "RS"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "states": [
+      {
+        "id": 31,
+        "name": "Bratislava",
+        "state_code": "SK"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "states": [
+      {
+        "id": 32,
+        "name": "Ljubljana",
+        "state_code": "SI"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "states": [
+      {
+        "id": 33,
+        "name": "Stockholm",
+        "state_code": "SE"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "states": [
+      {
+        "id": 34,
+        "name": "Bern",
+        "state_code": "CH"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "states": [
+      {
+        "id": 35,
+        "name": "Kyiv",
+        "state_code": "UA"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "states": [
+      {
+        "id": 36,
+        "name": "London",
+        "state_code": "GB"
+      }
+    ]
+  }
+]
